@@ -1,0 +1,3 @@
+fold,train_count,val_count,train_start_step,train_end_step,val_start_step,val_end_step,val_regime_count,val_regimes
+0,100,100,2,200,202,400,2,"AC_Vel=5.0,Fan_Vel=5.0,AC_Temp=293.15 | AC_Vel=3.0,Fan_Vel=5.0,AC_Temp=293.15"
+1,200,99,2,400,402,600,2,"AC_Vel=5.0,Fan_Vel=5.0,AC_Temp=293.15 | AC_Vel=3.0,Fan_Vel=5.0,AC_Temp=293.15"
